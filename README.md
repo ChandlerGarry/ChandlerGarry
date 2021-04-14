@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChandlerGarry!
 - 👀 I’m interested in Google's Flutter SDK, Mobile Development, Software Engineering and Web Design.
-- 🌱 I’m currently earning my Undergraduate degree at Western Washington University. Major: CSCI; Minor: User Experience Design.
-- 💞️ I’m looking to collaborate on any web-design projects or mobile-app projects.
+- 📚 I’m currently earning my Undergraduate degree at Western Washington University. (B.S. in Computer Science & a Minor in User Experience Design.)
+- 🤝 I'd love to collaborate on any web-design or mobile-app projects.
 - 📫 You can reach me on Twitter @channdlerrrrrr.
 
 <!---
